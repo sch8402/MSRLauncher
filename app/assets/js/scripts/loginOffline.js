@@ -13,7 +13,6 @@ const loginOfflineForm             = document.getElementById('loginOfflineForm')
 // Control variables.
 let lu2 = false, lp2  = false
 
-const loggerOfflineLogin = LoggerUtil1('%c[LoginOffline]', 'color: #000668; font-weight: bold')
 
 /**
  * Validate the offline username.
