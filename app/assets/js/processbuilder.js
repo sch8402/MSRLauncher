@@ -500,8 +500,11 @@ class ProcessBuilder {
                             val = this.vanillaManifest.assets
                             break
                         case 'auth_uuid':
-                            val = this.authUser.uuid.trim()
-                            break
+                            if (this.authUser.type === 'offline'){
+                                val = 'N/A'
+                            }else {
+                                val = this.authUser.uuid.trim()
+                            }
                         case 'auth_access_token':
                             val = this.authUser.accessToken
                             break
