@@ -1,13 +1,13 @@
 {
   "name": "msrgirinlauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Msrgirin Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), sch8402 (https://github.com/sch8402)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/sch8402/Launcher",
+  "homepage": "https://github.com/sch8402/MSRLauncher",
   "bugs": {
-    "url": "https://github.com/sch8402/Launcher/issues"
+    "url": "https://github.com/sch8402/MSRLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sch8402/Launcher.git"
+    "url": "git+https://github.com/sch8402/MSRLauncher.git"
   }
 }
