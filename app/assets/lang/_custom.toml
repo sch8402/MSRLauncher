@@ -4,7 +4,7 @@
 title = "Msrgirin Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "#"
+mediaGitHubURL = "http://msrgirin.kro.kr:8123/"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
